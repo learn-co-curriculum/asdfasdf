@@ -12,3 +12,5 @@ Make the tests pass.
 ## Resources
 
 * [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/asdfasdf' title='Objectives'>Objectives</a> on Learn.co and start learning to code for free.</p>
